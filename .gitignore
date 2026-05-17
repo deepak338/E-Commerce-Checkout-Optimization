@@ -1,0 +1,19 @@
+# Portfolio Portfolio Exclusions
+*
+!eda_and_testing.ipynb
+!analysis_queries.sql
+!checkout_ab_test_data.csv
+!README.md
+!.gitignore
+
+# Keep environment/tooling out
+.venv/
+__pycache__/
+.python-version
+uv.lock
+pyproject.toml
+*.twb
+scripts.py
+clean_checkout_ab_data.csv
+PROJECT_DOCUMENTATION.md
+gemini.md
