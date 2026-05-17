@@ -1,8 +1,5 @@
 # E-Commerce Checkout Optimization: A/B Testing & Segment Analysis
 
-## 🔗 Project Links
-* **Tableau Interactive Dashboard:** [Insert Your Tableau Public Link Here]
-* **GitHub Repository:** [Link to this Repo]
 
 ## 📌 Project Overview (STAR Method)
 
@@ -34,8 +31,7 @@ As the Data Analyst, my task was to:
 ### 1. The Paradox: Aggregate Success vs. Segment Failure
 This chart illustrates how the overall positive trend in Variant B was misleading due to the severe drop in Mobile performance.
 
-![Conversion Rate by Device](https://via.placeholder.com/800x400.png?text=Conversion+Rate+by+Device+and+Group+Visualization)  
-*(Note: Replace with the actual plot from `eda_and_testing.ipynb`)*
+![Conversion Rate by Device](![alt text](image.png))  
 
 ### 2. Conversion Lift Analysis
 | Segment | Variant A (Control) | Variant B (Treatment) | Relative Lift |
