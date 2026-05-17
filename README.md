@@ -31,7 +31,7 @@ As the Data Analyst, my task was to:
 ### 1. The Paradox: Aggregate Success vs. Segment Failure
 This chart illustrates how the overall positive trend in Variant B was misleading due to the severe drop in Mobile performance.
 
-
+![Conversion Rate by Device](![alt text](image.png))  
 
 ### 2. Conversion Lift Analysis
 | Segment | Variant A (Control) | Variant B (Treatment) | Relative Lift |
